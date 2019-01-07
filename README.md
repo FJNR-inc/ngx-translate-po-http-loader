@@ -35,3 +35,7 @@ export function createTranslateLoader(http: HttpClient) {
 })
 export class AppModule { }
 ```
+
+## Special thanks
+
+This package is a fork of the [initial repository](https://github.com/biesbjerg/ngx-translate-po-http-loader) of [Kim Biesbjerg](https://github.com/biesbjerg). Special thanks to him for his effort in this project.
