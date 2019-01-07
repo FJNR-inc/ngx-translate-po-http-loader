@@ -1,4 +1,7 @@
 # Description
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/RignonNoel/ngx-translate-po-http-loader.svg)](https://greenkeeper.io/)
+
 Load po files for use with `ngx-translate`
 
 ## Installation:
