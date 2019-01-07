@@ -5,7 +5,7 @@ Load po files for use with `ngx-translate`
 
  ```
 npm i @ngx-translate/core --save
-npm i @biesbjerg/ngx-translate-po-http-loader --save
+npm i @fjnr/ngx-translate-po-http-loader --save
  ```
 
 ## Usage:
