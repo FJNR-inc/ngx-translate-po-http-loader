@@ -13,7 +13,7 @@ npm i @fjnr/ngx-translate-po-http-loader --save
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
-import { TranslatePoHttpLoader } from '@biesbjerg/ngx-translate-po-http-loader';
+import { TranslatePoHttpLoader } from '@fjnr/ngx-translate-po-http-loader';
 
 export function createTranslateLoader(http: HttpClient) {
 	return new TranslatePoHttpLoader(http, 'assets/i18n', '.po');
