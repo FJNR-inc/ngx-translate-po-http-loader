@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/%40fjnr%2Fngx-translate-po-http-loader.svg)](https://badge.fury.io/js/%40fjnr%2Fngx-translate-po-http-loader)
+
 # Description
 Load po files for use with `ngx-translate`
 
