@@ -34,17 +34,17 @@
     "@ngx-translate/core": "^10.0.0"
   },
   "dependencies": {
-    "gettext-parser": "^2.1.0"
+    "gettext-parser": "^4.0.3"
   },
   "devDependencies": {
-    "@angular/core": "^6.0.0",
-    "@angular/common": "^6.0.0",
-    "@angular/platform-browser": "^6.0.0",
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9",
+    "@angular/platform-browser": "^9.1.9",
+    "@ngx-translate/core": "12.1.2",
     "rxjs": "^6.0.0",
-    "zone.js": "0.8.26",
-    "typescript": "2.7.2",
-    "@ngx-translate/core": "10.0.0",
-    "tslint": "5.8.0",
-    "tslint-eslint-rules": "4.1.1"
+    "tslint": "6.1.2",
+    "tslint-eslint-rules": "5.4.0",
+    "typescript": "3.9.3",
+    "zone.js": "0.10.3"
   }
 }
