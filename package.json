@@ -29,17 +29,17 @@
   },
   "config": {},
   "peerDependencies": {
-    "@angular/core": "^6.0.0",
-    "@angular/common": "^6.0.0",
-    "@ngx-translate/core": "^10.0.0"
+    "@angular/core": "~11.0.5",
+    "@angular/common": "~11.0.5",
+    "@ngx-translate/core": "~13.0.0"
   },
   "dependencies": {
     "gettext-parser": "^4.0.3"
   },
   "devDependencies": {
-    "@angular/common": "^9.1.9",
-    "@angular/core": "^9.1.9",
-    "@angular/platform-browser": "^9.1.9",
+    "@angular/core": "~11.0.5",
+    "@angular/common": "~11.0.5",
+    "@angular/platform-browser": "~11.0.5",
     "@ngx-translate/core": "12.1.2",
     "rxjs": "^6.0.0",
     "tslint": "6.1.2",
